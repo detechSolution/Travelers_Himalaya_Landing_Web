@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+    scroll-behavior: smooth;
+    text-wrap: balance;
+}
+
+html,body{
+    overflow-x: hidden;
+}
+
+
+::selection{
+    color: white;
+    background: #86efac;
+}
